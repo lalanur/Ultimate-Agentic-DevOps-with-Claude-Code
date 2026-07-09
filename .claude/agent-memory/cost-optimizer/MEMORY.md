@@ -1,0 +1,1 @@
+- [Portfolio Site Cost Review 2026-07-09](portfolio-site-cost-review-20260709.md) — portfolio site uses PriceClass_200 (high impact), missing S3 multipart cleanup and 404 caching optimization

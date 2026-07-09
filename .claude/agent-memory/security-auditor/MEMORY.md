@@ -1,0 +1,3 @@
+- [Portfolio Terraform baseline](portfolio_terraform_baseline.md) — what's already solid (OAC, PAB, BucketOwnerEnforced) so audits focus on gaps, not regressions.
+- [Recurring gaps in this repo](portfolio_terraform_gaps.md) — versioning, encryption, logging, security headers, WAF consistently missing across reviews.
+- [Backend/provider version mismatch](terraform_version_mismatch.md) — use_lockfile needs TF >=1.10 but required_version allows >=1.5.
